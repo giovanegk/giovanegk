@@ -1,10 +1,10 @@
-## Hi there 👋
+### Boas vindas ao meu perfil👋
 
-<!--
-**giovanegk/giovanegk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovane Konhevaliki
 
-Here are some ideas to get you started:
-
+-Estou estudando na Alura
+-Estou me desenvolvimento na linguagem Javascript
+-Utilizo esse espaço para minha organização
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
